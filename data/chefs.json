@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
+        "chef_name": "Fakruddin",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 5000,
+        "short_bio": "Fakruddin is a renowned chef who has been in the culinary industry for over 10 years. He is known for his creative and innovative approach to cooking.",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdc7OTEBYtRa3r3PyZOcG_t5fDnjKziyU4vgr2Gn-0bdaByRaWj5CpC224EJUl1DomNU&usqp=CAU",
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+            "Chicken",
+            "Onions",
+            "Tomatoes",
+            "Spices",
+            "Coconut Milk"
+        ],
+        "cooking_method": [
+            "1. Heat oil in a pan and sauté onions until translucent.",
+            "2. Add chicken and cook until browned.",
+            "3. Add tomatoes, spices, and coconut milk and simmer for 20 minutes.",
+            "4. Serve hot with rice or bread."
+        ],
+        "rating": 4.5,
+        "favorite": false
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://a2s4r4h8.stackpathcdn.com/wp-content/uploads/2020/07/Chef-de-Partie-Serving-Food.jpg",
+        "chef_name": "Gordon Ramsay",
+        "years_of_experience": 30,
+        "number_of_recipes": 100,
+        "likes": 10000,
+        "short_bio": "Gordon Ramsay is a world-famous chef with over 30 years of experience. He has worked in some of the best restaurants in the world and has multiple Michelin stars to his name.",
+        "banner": "https://i.imgur.com/zDw1pLN.jpg",
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+            "Beef tenderloin",
+            "Puff pastry",
+            "Mushrooms",
+            "Prosciutto",
+            "Mustard"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 200°C.",
+            "2. Season the beef tenderloin with salt and pepper.",
+            "3. Sear the beef in a hot pan until browned on all sides.",
+            "4. Spread mustard over the beef, then cover with a layer of prosciutto and mushrooms.",
+            "5. Wrap the beef in puff pastry and brush with beaten egg.",
+            "6. Bake for 25-30 minutes until the pastry is golden brown and the beef is cooked to your liking.",
+            "7. Rest the beef for 10 minutes before slicing and serving."
+        ],
+        "rating": 4.9,
+        "favorite": true
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/premium-photo/happy-chef-cook-wearing-uniform-holding-knife-isolated-white-wall_171337-54221.jpg",
+        "chef_name": "Jamie Oliver",
+        "years_of_experience": 25,
+        "number_of_recipes": 75,
+        "likes": 7500,
+        "short_bio": "Jamie Oliver is a celebrity chef and restaurateur with over 25 years of experience. He is known for his passion for healthy, delicious food and his campaigns to improve children's food education.",
+        "banner": "https://i.imgur.com/0RcOLe8.jpg",
+        "recipe_name": "Roasted Vegetable Lasagne",
+        "ingredients": [
+            "Lasagne sheets",
+            "Tomato sauce",
+            "Mixed vegetables",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 200°C.",
+            "2. Cut the vegetables into bite-sized pieces and roast in the oven for 20 minutes.",
+            "3. Spread a layer of tomato sauce on the bottom of a baking dish.",
+            "4. Add a layer of lasagne sheets, followed by a layer of roasted vegetables and a layer of ricotta cheese.",
+            "5. Repeat the layers, ending with a layer of lasagne sheets and a layer of tomato sauce.",
+            "6. Top with mozzarella cheese and bake for 30-35 minutes until golden brown.",
+            "7. Let cool for a few minutes before slicing and serving."
+        ],
+        "rating": 4.3,
+        "favorite": false
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://st.depositphotos.com/1518767/4293/i/600/depositphotos_42938439-stock-photo-smiling-male-chef-with-cooked.jpg",
+        "chef_name": "Nigella Lawson",
+        "years_of_experience": 20,
+        "number_of_recipes": 60,
+        "likes": 8000,
+        "short_bio": "Nigella Lawson is a food writer, journalist, and television presenter with over 20 years of experience. She is known for her simple yet delicious recipes and her love of home cooking.",
+        "banner": "https://i.imgur.com/kZ0bxJ3.jpg",
+        "recipe_name": "Lemon Drizzle Cake",
+        "ingredients": [
+            "Butter",
+            "Sugar",
+            "Eggs",
+            "Flour",
+            "Lemon juice",
+            "Lemon zest"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 180°C.",
+            "2. Cream together the butter and sugar until light and fluffy.",
+            "3. Beat in the eggs, one at a time.",
+            "4. Fold in the flour, lemon juice, and lemon zest.",
+            "5. Pour the batter into a greased cake tin and bake for 35-40 minutes.",
+            "6. While the cake is still warm, pierce it all over with a skewer and drizzle with lemon juice and sugar.",
+            "7. Let the cake cool completely before slicing and serving."
+        ],
+        "rating": 4.7,
+        "favorite": true
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://www.chefiica.com/images/Chef-Diwanshu-Puri-CDP-Culinary-Demonstrations,-IICA-New-Delhi.jpg",
+        "chef_name": "Ina Garten",
+        "years_of_experience": 30,
+        "number_of_recipes": 80,
+        "likes": 9000,
+        "short_bio": "Ina Garten is a celebrity chef and television personality with over 30 years of experience. She is known for her elegant yet approachable recipes and her love of entertaining.",
+        "banner": "https://i.imgur.com/Ad9PfHJ.jpg",
+        "recipe_name": "Roast Chicken",
+        "ingredients": [
+            "Whole chicken",
+            "Butter",
+            "Lemon",
+            "Garlic",
+            "Thyme"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 220°C.",
+            "2. Rinse the chicken inside and out and pat dry with paper towels.",
+            "3. Melt the butter and mix with minced garlic and thyme leaves.",
+            "4. Rub the butter mixture all over the chicken, including under the skin.",
+            "5. Cut the lemon in half and place inside the chicken cavity along with a few sprigs of thyme.",
+            "6. Roast the chicken in a baking dish for 1 1/2 to 2 hours, or until the internal temperature reaches 75°C.",
+            "7. Let the chicken rest for 10-15 minutes before carving and serving."
+        ],
+        "rating": 4.9,
+        "favorite": true
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSBjULN0-LWh0SoXS9cAS9Ev5iAJRUzGPZoQ&usqp=CAU",
+        "chef_name": "Gordon Ramsay",
+        "years_of_experience": 35,
+        "number_of_recipes": 100,
+        "likes": 10000,
+        "short_bio": "Gordon Ramsay is a celebrity chef and restaurateur with over 35 years of experience. He is known for his fiery personality and his high standards for food quality.",
+        "banner": "https://i.imgur.com/nkL3O5R.jpg",
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+            "Beef tenderloin",
+            "Puff pastry",
+            "Mushrooms",
+            "Prosciutto",
+            "Mustard",
+            "Egg wash"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 200°C.",
+            "2. Season the beef tenderloin with salt and pepper.",
+            "3. Sear the beef in a hot pan until browned on all sides.",
+            "4. Chop the mushrooms and sauté with garlic and thyme until all the liquid has evaporated.",
+            "5. Roll out the puff pastry and spread a layer of mustard over it.",
+            "6. Lay the prosciutto over the mustard and spread the mushroom mixture over the prosciutto.",
+            "7. Place the beef on top of the mushroom mixture and wrap the pastry around it, trimming off any excess.",
+            "8. Brush the pastry with egg wash and bake for 30-35 minutes, or until the pastry is golden brown and the beef is cooked to your liking.",
+            "9. Let the beef rest for 10-15 minutes before slicing and serving."
+        ],
+        "rating": 4.6,
+        "favorite": false
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJ8jZIysg8PEjqhnLlXSvCnBawgZhsEo2Wnvk4lhS-JI9gZjugDDVq3BDaId28Ein6WM&usqp=CAU",
+        "chef_name": "Jamie Oliver",
+        "years_of_experience": 25,
+        "number_of_recipes": 120,
+        "likes": 8500,
+        "short_bio": "Jamie Oliver is a celebrity chef and restaurateur with over 25 years of experience. He is known for his advocacy of healthy eating and his efforts to promote cooking skills in schools.",
+        "banner": "https://i.imgur.com/yBb2xlq.jpg",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "Pasta",
+            "Basil",
+            "Parmesan cheese",
+            "Pine nuts",
+            "Garlic",
+            "Olive oil"
+        ],
+        "cooking_method": [
+            "1. Cook the pasta according to package instructions and reserve a cup of the pasta water.",
+            "2. In a blender or food processor, blend together the basil, Parmesan cheese, pine nuts, and garlic until smooth.",
+            "3. While the blender is running, slowly drizzle in the olive oil until the mixture is emulsified.",
+            "4. Toss the cooked pasta with the pesto, adding some of the reserved pasta water as needed to create a smooth sauce.",
+            "5. Serve hot, garnished with additional Parmesan cheese and pine nuts if desired."
+        ],
+        "rating": 4.3,
+        "favorite": false
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZBJGyo-Nh5mcgsbzMcq5cSRqaZlUg51p6g&usqp=CAU",
+        "chef_name": "Nigella Lawson",
+        "years_of_experience": 20,
+        "number_of_recipes": 90,
+        "likes": 7500,
+        "short_bio": "Nigella Lawson is a British food writer, cookbook author, and television presenter with over 20 years of experience. She is known for her indulgent and comforting recipes.",
+        "banner": "https://i.imgur.com/K3ZyANZ.jpg",
+        "recipe_name": "Chocolate Cake",
+        "ingredients": [
+            "Flour",
+            "Cocoa powder",
+            "Baking powder",
+            "Baking soda",
+            "Butter",
+            "Sugar",
+            "Eggs",
+            "Vanilla extract",
+            "Milk"
+        ],
+        "cooking_method": [
+            "1. Preheat the oven to 180°C.",
+            "2. In a bowl, mix together the flour, cocoa powder, baking powder, and baking soda.",
+            "3. In a separate bowl, cream together the butter and sugar until light and fluffy.",
+            "4. Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "5. Gradually mix in the dry ingredients, alternating with the milk, until the batter is smooth and well combined.",
+            "6. Pour the batter into a greased cake pan and bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+            "7. Let the cake cool in the pan for 10 minutes, then turn it out onto a wire rack to cool completely.",
+            "8. Frost and decorate the cake as desired."
+        ],
+        "rating": 4.8,
+        "favorite": true
+    }
+]
